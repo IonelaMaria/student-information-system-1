@@ -1,13 +1,11 @@
 Run Application
 ---------------
 - mvn clean install
-- java -jar target/student-information-system-0.0.1-SNAPSHOT.jar 
-- http://localhost:8080/student-information-system/
-
 If you want to use the production settings:
 java -jar -Dspring.profiles.active=production target/student-information-system-0.0.1-SNAPSHOT.jar 
 If you want to use the development settings:
 java -jar -Dspring.profiles.active=development target/student-information-system-0.0.1-SNAPSHOT.jar 
+- http://localhost:8080/student-information-system/
 
 Live System
 -----------
