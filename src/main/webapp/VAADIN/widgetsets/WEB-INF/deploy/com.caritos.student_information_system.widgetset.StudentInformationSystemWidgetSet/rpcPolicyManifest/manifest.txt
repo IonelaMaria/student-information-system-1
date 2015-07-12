@@ -1,0 +1,2 @@
+# Module com.caritos.student_information_system.widgetset.StudentInformationSystemWidgetSet
+# RPC service class, partial path of RPC policy file
